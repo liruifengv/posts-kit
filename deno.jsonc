@@ -1,0 +1,6 @@
+{
+  "$scheme": "https://deno.land/x/denon/schema.json",
+  "tasks": {
+    "start": "deno run --allow-all --unstable ./main.ts"
+  }
+}
